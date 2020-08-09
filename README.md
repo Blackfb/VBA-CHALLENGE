@@ -22,6 +22,6 @@ In this work, I used to VBA scripting for analyze real stock market data.
 
 * Created a script to locate the stock with the "Greatest % increase", "Greatest % Decrease" and "Greatest total volume".
 
-![Ticker symbol and volume for 2014 Multi Year Stock Data] (Images/2014.png)
-![Ticker symbol and volume for 2015 Multi Year Stock Data] (Images/2015.png)
-![Ticker symbol and volume for 2016 Multi Year Stock Data] (Images/2016.png)
+![Ticker symbol and volume for 2014 Multi Year Stock Data](Images/2014.png)
+![Ticker symbol and volume for 2015 Multi Year Stock Data](Images/2015.png)
+![Ticker symbol and volume for 2016 Multi Year Stock Data](Images/2016.png)
