@@ -2,9 +2,9 @@
 
 ![stock Market](Images/stockmarket.jpg)
 
-In this work, I used to VBA scripting for analyze real stock market data.
+### Overview 
 
-### Over View :
+* In this work, I used to VBA scripting for analyze real stock market data.
 
 * Created a script that will loop through each year of stock data and grab the total amount of volume each stock had over the year.
 
@@ -24,7 +24,9 @@ In this work, I used to VBA scripting for analyze real stock market data.
 
 # Ticker symbol and volume for 2014 Multi Year Stock Data
 ![Ticker symbol and volume for 2014 Multi Year Stock Data](Images/2014.png)
+
 # Ticker symbol and volume for 2015 Multi Year Stock Data
 ![Ticker symbol and volume for 2015 Multi Year Stock Data](Images/2015.png)
+
 # Ticker symbol and volume for 2016 Multi Year Stock Data
 ![Ticker symbol and volume for 2016 Multi Year Stock Data](Images/2016.png)
