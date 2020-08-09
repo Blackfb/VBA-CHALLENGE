@@ -2,37 +2,26 @@
 
 ![stock Market](Images/stockmarket.jpg)
 
-## Instructions
+In this work, I used to VBA scripting for analyze real stock market data.
 
-* Create a script that will loop through all the stocks for one year and output the following information.
+### Over View :
 
-  * The ticker symbol.
+* Created a script that will loop through each year of stock data and grab the total amount of volume each stock had over the year.
 
-  * Yearly change from opening price at the beginning of a given year to the closing price at the end of that year.
+* Created a script that will loop through all the stocks and take the following info.
 
-  * The percent change from opening price at the beginning of a given year to the closing price at the end of that year.
+   * Yearly change from what the stock opened the year at to what the closing price was.
 
-  * The total stock volume of the stock.
+   * The percent change from the what it opened the year at to what it closed.
 
-* You should also have conditional formatting that will highlight positive change in green and negative change in red.
+   * The total Volume of the stock
 
+   * Ticker symbol
 
-### CHALLENGES
+* Created conditional formatting that will highlight positive change in green and negative change in red.
 
-1. Your solution will also be able to return the stock with the "Greatest % increase", "Greatest % decrease" and "Greatest total volume". The solution will look as follows:
+* Created a script to locate the stock with the "Greatest % increase", "Greatest % Decrease" and "Greatest total volume".
 
-2. Make the appropriate adjustments to your VBA script that will allow it to run on every worksheet, i.e., every year, just by running the VBA script once.
-
-### Other Considerations
-
-* Make sure that the script acts the same on each sheet. The joy of VBA is to take the tediousness out of repetitive task and run over and over again with a click of the button.
-
-## Submission
-
-  * A screen shot for each year of your results on the Multi Year Stock Data.
-
-  * VBA Scripts as separate files.
-
-### Copyright
-
-Trilogy Education Services © 2019. All Rights Reserved.
+![Ticker symbol and volume for 2014 Multi Year Stock Data] (Images/2014.png)
+![Ticker symbol and volume for 2015 Multi Year Stock Data] (Images/2015.png)
+![Ticker symbol and volume for 2016 Multi Year Stock Data] (Images/2016.png)
