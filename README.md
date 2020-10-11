@@ -4,7 +4,7 @@
 
 ### Overview 
 
-* In this work, I used to VBA scripting for analyze real stock market data.
+* In this work, I used to VBA scripting for analyze real stock market data,
 
 * Created a script that will loop through each year of stock data and grab the total amount of volume each stock had over the year.
 
